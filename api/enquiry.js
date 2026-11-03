@@ -1,7 +1,7 @@
 // Vercel serverless function — forwards contact-form enquiries to the owner's WhatsApp.
 // Uses CallMeBot's free WhatsApp API (https://www.callmebot.com/blog/free-api-whatsapp-messages/).
 // Required env vars (Vercel → Project → Settings → Environment Variables):
-//   CALLMEBOT_PHONE  — WhatsApp number that receives enquiries, with country code (e.g. 919578841301)
+//   CALLMEBOT_PHONE  — WhatsApp number that receives enquiries, with country code (e.g. 919363741301)
 //   CALLMEBOT_APIKEY — API key CallMeBot sends to that number after activation
 
 const LIMITS = { name: 80, phone: 15, email: 120, service: 80, message: 1500 };

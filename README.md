@@ -31,5 +31,5 @@ Adding a service or article to `src/data/*` automatically adds its page, menu en
 
 ## Environment variables (Vercel)
 
-- `CALLMEBOT_PHONE` — WhatsApp number that receives enquiries, with country code (e.g. `919578841301`)
+- `CALLMEBOT_PHONE` — WhatsApp number that receives enquiries, with country code (e.g. `919363741301`)
 - `CALLMEBOT_APIKEY` — API key issued by CallMeBot for that number

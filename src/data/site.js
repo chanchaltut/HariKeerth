@@ -38,10 +38,10 @@ export const BRAND = {
   pillars: ['Tax', 'Compliance', 'Infrastructure', 'Growth'],
   description:
     'Harikeerth Infratax LLP is a Madurai-based firm that brings civil engineering and financial compliance under one roof — business registration, accounting, audit, GST & income tax, litigation, plan approval, project management, tender documentation, trademark & ISO, bank loan documentation and company acquisition advisory.',
-  phones: ['9578841301', '9363741307', '6374950449'],
-  phone: '9578841301',
-  whatsapp: '919578841301',
-  email: 'harikeerth301@gmail.com',
+  phones: ['9363741301', '9578841301', '9363741307', '6374950449'],
+  phone: '9363741301',
+  whatsapp: '919363741301',
+  email: 'info@harikeerth.in',
   addressLines: ADDRESS_LINES,
   address: ADDRESS,
   street: 'No. 4/86, Ex Serviceman Complex, Pillar No. 95, New Natham Main Road, Iyerbungalow',
@@ -145,7 +145,7 @@ export const FAQS = [
   },
   {
     q: 'Where is your office and how do I contact you?',
-    a: `Our office is at ${ADDRESS}. You can call ${['9578841301', '9363741307', '6374950449'].map((p) => `+91 ${p}`).join(', ')}, WhatsApp +91 9578841301, or email harikeerth301@gmail.com.`,
+    a: `Our office is at ${ADDRESS}. You can call or WhatsApp +91 93637 41301, call +91 95788 41301, +91 93637 41307 or +91 63749 50449, or email info@harikeerth.in.`,
   },
   {
     q: 'Do you work with clients outside Madurai?',
