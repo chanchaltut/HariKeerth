@@ -50,8 +50,8 @@ export const BRAND = {
   postalCode: '625017',
   // Confirm with the client before launch
   timings: 'Monday – Saturday · 9:30 AM – 7:00 PM',
-  mapsUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`Ex Serviceman Complex, New Natham Main Road, Iyerbungalow, Madurai 625017`)}`,
-  mapsEmbed: `https://maps.google.com/maps?q=${encodeURIComponent('Ex Serviceman Complex, New Natham Main Road, Iyerbungalow, Madurai 625017')}&z=16&output=embed`,
+  mapsUrl: 'https://maps.app.goo.gl/Zdz6SwGJ46bURJ4P8?g_st=awb',
+  mapsEmbed: 'https://maps.google.com/maps?q=9.966609,78.136235&z=17&output=embed',
   website: SITE_URL,
   // Add profile URLs here once the client shares them — empty entries are not rendered
   social: {
